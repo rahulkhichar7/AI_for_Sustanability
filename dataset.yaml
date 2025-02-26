@@ -1,0 +1,6 @@
+train: D:\OneDrive - iitgn.ac.in\Desktop\Projects\AI_for_Sustanability\images\train
+val: D:\OneDrive - iitgn.ac.in\Desktop\Projects\AI_for_Sustanability\images\val
+test: D:\OneDrive - iitgn.ac.in\Desktop\Projects\AI_for_Sustanability\images\test
+
+nc: 1  # Number of classes
+names: ["solar_panel"]  # Class name
